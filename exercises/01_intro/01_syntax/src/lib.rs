@@ -3,7 +3,7 @@
 //  partner in this course and it'll often guide you in the right direction!
 //
 // The input parameters should have the same type of the return type.
-fn compute(a, b) -> u32 {
+fn compute(a: i32, b: i32) -> i32 {
     // Don't touch the function body.
     a + b * 2
 }
